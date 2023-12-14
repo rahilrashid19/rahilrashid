@@ -1,4 +1,4 @@
-# Portfolio - [Your Name]
+# Portfolio - Rahil Rashid
 
 Welcome to my front-end developer portfolio! This project showcases my skills, projects, and experiences as a front-end developer.
 
@@ -16,17 +16,15 @@ I am a passionate front-end developer with a focus on creating engaging and user
 
 ## Projects
 
-### [Project 1 Name](link-to-project-1)
+### [Food Ordering App](https://github.com/rahilrashid19/Food-Ordering-app)
 
-- Brief description of the project.
-- Technologies used.
-- Any special features or challenges overcome.
+- A food ordering app is a mobile application designed to streamline and enhance the process of ordering food from restaurants, cafes, or other food establishments..
+- React , Redux .
 
-### [Project 2 Name](link-to-project-2)
+### [Nike Landing Page](https://github.com/rahilrashid19/Nike_landing_page)
 
-- Brief description of the project.
-- Technologies used.
-- Any special features or challenges overcome.
+- Landing Page For Nike.
+- React , tailwind
 
 ...
 
@@ -53,13 +51,13 @@ I am a passionate front-end developer with a focus on creating engaging and user
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/rahilrashid19/rahilrashid
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-portfolio
+   cd rahilrashid
    ```
 
 3. Install dependencies:
@@ -80,8 +78,8 @@ I am a passionate front-end developer with a focus on creating engaging and user
 
 Feel free to reach out to me! You can find me on:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- Email: [rahilrashid977@gmial.com](mailto:rahilrashid977@gmial.com)
+- LinkedIn: [https://www.linkedin.com/in/rahil-rashid-8b8335173/](https://www.linkedin.com/in/rahil-rashid-8b8335173/)
+- GitHub: [https://github.com/rahilrashid19](https://github.com/rahilrashid19)
 
 I'm open to collaboration and always excited to connect with fellow developers and enthusiasts. Let's build something amazing together!
